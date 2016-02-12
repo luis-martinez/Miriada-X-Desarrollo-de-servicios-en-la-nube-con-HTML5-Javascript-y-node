@@ -1,0 +1,14 @@
+{
+  "name": "modulo4-ejercicio-obligatorio",
+  "version": "1.0.0",
+  "description": "Desarrollo de servicios en la nube con HTML5, Javascript y node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Martínez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
